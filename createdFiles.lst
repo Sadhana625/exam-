@@ -1,0 +1,4 @@
+com\klef\jfsd\exam\exam\ExamApplication.class
+com\klef\jfsd\exam\service\CommentService.class
+com\klef\jfsd\exam\model\Comment.class
+com\klef\jfsd\exam\controller\CommentController.class
